@@ -1,0 +1,38 @@
+E:\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+E:\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe
+E:\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.pdb
+E:\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csprojResolveAssemblyReference.cache
+E:\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmDangNhap.resources
+E:\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Properties.Resources.resources
+E:\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.GenerateResource.Cache
+E:\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+E:\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
+E:\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmMain.resources
+E:\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmQLDuAn.resources
+E:\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmQLNhanvien.resources
+E:\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmQLPhongBan.resources
+C:\Users\Administrator\Downloads\QLNhanSu-master\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+C:\Users\Administrator\Downloads\QLNhanSu-master\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+C:\Users\Administrator\Downloads\QLNhanSu-master\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
+C:\Users\Administrator\Downloads\QLNhanSu-master\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe
+C:\Users\Administrator\Downloads\QLNhanSu-master\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.pdb
+C:\Users\Administrator\Downloads\QLNhanSu-master\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\QLNhanSu-master\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmDangNhap.resources
+C:\Users\Administrator\Downloads\QLNhanSu-master\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmMain.resources
+C:\Users\Administrator\Downloads\QLNhanSu-master\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmQLDuAn.resources
+C:\Users\Administrator\Downloads\QLNhanSu-master\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmQLNhanvien.resources
+C:\Users\Administrator\Downloads\QLNhanSu-master\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmQLPhongBan.resources
+C:\Users\Administrator\Downloads\QLNhanSu-master\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Properties.Resources.resources
+C:\Users\Administrator\Downloads\QLNhanSu-master\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.GenerateResource.Cache
+D:\2018\Thực tập nhóm_TH14\QLNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+D:\2018\Thực tập nhóm_TH14\QLNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+D:\2018\Thực tập nhóm_TH14\QLNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
+D:\2018\Thực tập nhóm_TH14\QLNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe
+D:\2018\Thực tập nhóm_TH14\QLNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.pdb
+D:\2018\Thực tập nhóm_TH14\QLNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmDangNhap.resources
+D:\2018\Thực tập nhóm_TH14\QLNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmMain.resources
+D:\2018\Thực tập nhóm_TH14\QLNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmQLDuAn.resources
+D:\2018\Thực tập nhóm_TH14\QLNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmQLNhanvien.resources
+D:\2018\Thực tập nhóm_TH14\QLNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmQLPhongBan.resources
+D:\2018\Thực tập nhóm_TH14\QLNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Properties.Resources.resources
+D:\2018\Thực tập nhóm_TH14\QLNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.GenerateResource.Cache
